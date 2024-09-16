@@ -20,15 +20,14 @@ Calculate your CGPA effortlessly and compete with your peers in real-time. The *
 Here’s a preview of the CGPA Calculator App in action:
 
 <img src="https://github.com/aarshx05/CGPA-Calculator-App-UI/blob/main/c1.jpg" alt="CGPA Calculation Screen" width="200">  
-*CGPA Calculation Screen*
+*Real-Time Leaderboard*
 
 <img src="https://github.com/aarshx05/CGPA-Calculator-App-UI/blob/main/c2.jpg" alt="Real-Time Leaderboard" width="200">  
-*Real-Time Leaderboard*
+*CGPA Calculation Screen*
 
 <img src="https://github.com/aarshx05/CGPA-Calculator-App-UI/blob/main/c3.jpg" alt="Profile Screen" width="200">  
 *Profile Screen*
 
-> Add links to your actual screenshots by replacing `link_to_your_screenshot_X`.
 
 ## 🚀 Future Enhancements
 
@@ -54,4 +53,3 @@ Stay ahead, stay competitive, and never lose track of your academic progress!
 
 ---
 
-Simply replace the `link_to_your_screenshot_X` placeholders with the URLs or file paths to your actual screenshots!
